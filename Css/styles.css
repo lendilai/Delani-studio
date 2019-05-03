@@ -1,0 +1,22 @@
+body {
+  background-image: url("../Images/Backgrounds/h_img.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 2vh;
+  text-align: center;
+}
+.row {
+  color: white;
+  margin-top: 23vh;
+}
+.row img:first-child {
+  margin-bottom: 2.5%;
+}
+.row img:last-child {
+  margin-top: 3%;
+}
+.About {
+  background-color: white;
+}
