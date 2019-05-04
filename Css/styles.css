@@ -38,6 +38,7 @@ body {
   font-weight: bold;
 }
 #Work {
+  padding-top: 7%;
   background-color: white;
 }
 #Work p {
@@ -57,6 +58,8 @@ body {
   display: none;
 }
 .portfolio {
+  border-top: 1px solid grey;
+  padding-top: 7%;
   background-color: inherit;
   color: black;
 }
@@ -68,4 +71,16 @@ body {
 }
 #doings {
   width:85%;
+}
+.Contacts {
+  background-image: url("../Images/Backgrounds/c_image.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height:100vh;
+  padding-top: 3%;
+}
+.Contacts h1 {
+  font-weight: bold;
 }
