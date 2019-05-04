@@ -40,6 +40,10 @@ body {
 #Work p {
   color: black;
 }
+#Work h4 {
+  color: black;
+  font-weight: bold;
+}
 .portfolio {
   background-color: inherit;
   color: black;
