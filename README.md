@@ -1,6 +1,7 @@
 # Delani Studio
 <img src="Images/logo/title.png" align="left" width="120" height="150">
-![Landing page](Readme/Landing.png)
+
+![](Readme/landing.png)
 #### A website that connects web developers to possible investors who want to have a website created for them.
 #### By **Nathan Ng'ethe**
 
