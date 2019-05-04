@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
   background-image: url("../Images/Backgrounds/h_img.jpg");
   background-size: cover;
