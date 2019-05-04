@@ -2,7 +2,7 @@
 <img src="Images/logo/title.png" align="left" width="120" height="150">
 
 ![](Readme/landing.png)
-#### A website that connects web developers to possible investors who want to have a website created for them.
+#### A website that connects web developers to possible investors who want to have a website built for them.
 #### By **Nathan Ng'ethe**
 
 ## Description
@@ -27,17 +27,17 @@ This is a website thus is not available for download and can only be accessed on
 
 ## Technologies used
 - [HTML & CSS](https://www.w3schools.com/html/html_css.asp) - HTML is used to make the backbone of the website which mainly includes the text whereas CSS is used in styling the HTML document.
-- [Bootstrap](Bootstrap](https://getbootstrap.com/) - Bootsrap acts as a framework in building the site especially when it comes to object positioning and responsivity of the site.
+- [Bootstrap](https://getbootstrap.com/) - Bootsrap acts as a framework in building the site especially when it comes to object positioning and responsivity of the site.
 - [jQuery](https://jquery.com/) - This helps in hiding and showing elements and also in clearing forms after submission.
 
 ## Dependencies
 The site uses mailchimp API to track the emails sent from the 'Contact us' section.
 
-##Known bugs
+## Known bugs
 There are no known bugs in the website so far. If you come across any, you are free to contact me via the contacts below.
 
-##Contacts information
+## Contacts information
 To contact me for any contribution or support you can contact me through my gmail account at ngethenan768@gmail.com or call me at +254 706446072.
 
 ## License
-[MIT License]() [Nathan Ng'ethe](https://github.com/lendilai).
+[MIT License](https://github.com/lendilai/Delani-studio/blob/master/LICENSE) [Nathan Ng'ethe](https://github.com/lendilai).
