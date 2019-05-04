@@ -44,6 +44,15 @@ body {
   color: black;
   font-weight: bold;
 }
+#design {
+  display: none;
+}
+#development {
+  display: none;
+}
+#management {
+  display: none;
+}
 .portfolio {
   background-color: inherit;
   color: black;
