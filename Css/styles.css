@@ -12,6 +12,7 @@ body {
 }
 #top {
   height:540px;
+  font-family: "Merriweather";
 }
 .row {
   width: 100%;
@@ -37,9 +38,13 @@ body {
   font-size: 2.5vh;
   font-weight: bold;
 }
+.About, .services {
+  font-family: "Lora";
+}
 #Work {
   padding-top: 7%;
   background-color: white;
+  font-family: "Poppins";
 }
 #Work p {
   color: black;
@@ -57,12 +62,29 @@ body {
 .management-hidden {
   display: none;
 }
+.clickable:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.clickable2:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.clickable3:hover {
+  opacity: 0.6;
+  cursor: pointer;
+  transition: 0.3s;
+}
 .portfolio {
   border-top: 1px solid grey;
   padding-top: 7%;
   padding-bottom: 5%;
   background-color: inherit;
   color: black;
+  font-family: "Poppins";
+  font-weight: bold;
 }
 #portfolio {
   max-width: 80%;
@@ -101,4 +123,29 @@ input {
 input:hover {
   opacity: 1.1;
   transition: 0.7s;
+}
+.social-media {
+  height: 20vh;
+  margin-top: -7%;
+  background-color: white;
+  text-align: center;
+  font-family: "Inconsolata";
+  color: black;
+}
+.social-media .row {
+  padding-top: 2%;
+  justify-content: center;
+  width:70%;
+  margin-left: 14%;
+}
+.social-media p {
+  padding-top: 1%;
+  font-weight: bold;
+}
+.social-media img {
+  border-radius: 50%;
+}
+.social-media img:hover {
+  box-shadow: 3px 3px 5px grey, -3px 0 5px grey;
+  transition: 0.4s;
 }
