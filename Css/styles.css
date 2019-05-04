@@ -7,20 +7,49 @@ body {
   font-size: 2vh;
   text-align: center;
 }
+#top {
+  height:540px;
+}
 .row {
   width: 100%;
   color: white;
-  margin-top: 23vh;
+  margin-top: 15vh;
 }
 .row img:first-child {
   margin-bottom: 2.5%;
 }
-.row img:last-child {
-  margin-top: 3%;
-}
 .About {
   background-color: white;
+  padding: 10px;
+  font-size: 2.5vh;
+  font-weight: bold;
+}
+.services {
+  background-image: url("../Images/Backgrounds/s_image.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 10px;
+  font-size: 2.5vh;
+  font-weight: bold;
+}
+#Work {
+  background-color: white;
+}
+#Work p {
+  color: black;
+}
+.portfolio {
+  background-color: inherit;
+  color: black;
 }
 #portfolio {
   max-width: 80%;
+}
+#doings {
+  width:85%;
+}
+.animated:hover {
+  animation-play-state: paused;
 }
