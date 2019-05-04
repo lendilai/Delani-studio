@@ -60,9 +60,9 @@ body {
 #portfolio {
   max-width: 80%;
 }
+.portfolio .row .animated:hover {
+  animation-play-state: paused;
+}
 #doings {
   width:85%;
-}
-.animated:hover {
-  animation-play-state: paused;
 }
