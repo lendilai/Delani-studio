@@ -42,7 +42,7 @@ body {
   font-family: "Lora";
 }
 #Work {
-  padding-top: 7%;
+  padding-top: 4%;
   background-color: white;
   font-family: "Poppins";
 }
@@ -98,7 +98,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   color: white;
-  height:70vh;
+  height:100vh;
   padding-top: 3%;
 }
 .Contacts h1 {
@@ -125,7 +125,7 @@ input:hover {
   transition: 0.7s;
 }
 .social-media {
-  height: 20vh;
+  height: 24vh;
   margin-top: -7%;
   background-color: white;
   text-align: center;
