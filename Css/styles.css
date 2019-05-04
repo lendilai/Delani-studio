@@ -48,13 +48,13 @@ body {
   color: black;
   font-weight: bold;
 }
-#design {
+.design-hidden {
   display: none;
 }
-#development {
+.development-hidden {
   display: none;
 }
-#management {
+.management-hidden {
   display: none;
 }
 .portfolio {
